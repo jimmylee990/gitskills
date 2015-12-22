@@ -1,2 +1,2 @@
-Creating a new branch is quick & simple.
+Git is a free software ... is quick & simple.
 when are man loves a woman.
